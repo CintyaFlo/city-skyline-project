@@ -40,8 +40,7 @@
     --window-color3: #d98cb3;
     --window-color4: #8cb3d9;
   }
-  40,
-  1% {
+  40.1% {
     --building-color1: #000;
     --building-color2: #000;
     --building-color3: #000;
@@ -145,8 +144,7 @@ body {
       #bbeeff 100%
     );
   }
-  40,
-  1% {
+  40.1% {
     background: radial-gradient(
       closest-corner circle at 15% 15%,
       #ccc,
